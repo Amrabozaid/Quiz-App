@@ -98,7 +98,7 @@ class SignupScreen extends StatelessWidget {
                               color: Colors.black.withOpacity(0.25),
                               spreadRadius: 1,
                               blurRadius: 8,
-                              offset: Offset(0, 4),
+                              offset: const Offset(0, 4),
                             ),
                           ],
                           color: const Color(0xffb8e893),
